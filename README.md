@@ -6,7 +6,7 @@ The goal of this project is to analyze **sales trends, outlet performance, produ
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 
 This Power BI dashboard helps answer important business questions such as:
 
