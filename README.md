@@ -75,7 +75,7 @@ The dataset includes:
 
 ##  Files in This Repository
 
-- `Blinkit_Dashboard.pbix` – <a href="https://github.com/Rohit-Singh33/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/Blinkit%20Dashboard.pbix">  </a>
+- `Blinkit_Dashboard.pbix` – <a href="https://github.com/Rohit-Singh33/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/Blinkit%20Dashboard.pbix"> Blinkit .Pbix file  </a>
 
 - `Blinkit_Dataset.csv` – <a href="https://github.com/Rohit-Singh33/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/BlinkIT%20Grocery%20Data.csv"> Dataset file 1 </a>
 
