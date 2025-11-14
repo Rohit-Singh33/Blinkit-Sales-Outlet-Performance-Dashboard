@@ -81,6 +81,7 @@ The dataset includes:
 
 - `Blinkit_Dataset.csv` - <a href="https://github.com/Rohit-Singh33/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/BlinkIT%20Grocery%20Data%202.xlsx"> Dataset file 2 </a> 
 
+- `Blinkit_Dashboard.pbix` – <a href="https://github.com/Rohit-Singh33/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/Blinkit%20Dashboard.pbix">  </a>
 ---
 
 ##  Purpose of This Project
