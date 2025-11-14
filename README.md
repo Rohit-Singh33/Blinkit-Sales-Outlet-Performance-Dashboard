@@ -73,9 +73,9 @@ The dataset includes:
 
 ---
 
-## 📁 Files in This Repository
+##  Files in This Repository
 
-- `Blinkit_Dashboard.pbix` –  
+- `Blinkit_Dashboard.pbix` – <a hrefhttps://github.com/Rohit-Singh33/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/Blinkit%20Dashboard.pbix /a>
 - `Blinkit_Dataset.csv` – Cleaned dataset used for analysis  
 - `README.md` – Project documentation  
 
