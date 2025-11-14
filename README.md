@@ -75,13 +75,15 @@ The dataset includes:
 
 ##  Files in This Repository
 
-- `Blinkit_Dashboard.pbix` – <a hrefhttps://github.com/Rohit-Singh33/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/Blinkit%20Dashboard.pbix /a>
-- `Blinkit_Dataset.csv` – Cleaned dataset used for analysis  
-- `README.md` – Project documentation  
+- `Blinkit_Dashboard.pbix` – <a href="https://github.com/Rohit-Singh33/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/Blinkit%20Dashboard.pbix">  </a>
+
+- `Blinkit_Dataset.csv` – <a href="https://github.com/Rohit-Singh33/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/BlinkIT%20Grocery%20Data.csv"> Dataset file 1 </a>
+
+- `Blinkit_Dataset.csv` - <a href="https://github.com/Rohit-Singh33/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/BlinkIT%20Grocery%20Data%202.xlsx"> Dataset file 2 </a> 
 
 ---
 
-## 🎯 Purpose of This Project
+##  Purpose of This Project
 
 This dashboard was created to:
 
@@ -92,7 +94,7 @@ This dashboard was created to:
 
 ---
 
-## 📌 How to Use
+##  How to Use
 
 1. Download the `.pbix` file  
 2. Open it using **Power BI Desktop**  
@@ -101,9 +103,9 @@ This dashboard was created to:
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
-**Rohit Bijarniya**  
+**Rohit Singh**  
 Data Analyst | Power BI | Excel | SQL  
 
 If you like this project, feel free to ⭐ star the repository!
